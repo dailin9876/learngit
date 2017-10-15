@@ -5,8 +5,3 @@ Git tracks changes of files.
 sourcetree 2
 del all
 
-
-
-
-
-
